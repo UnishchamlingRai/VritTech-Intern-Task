@@ -1,5 +1,3 @@
-/* eslint-disable react/prop-types */
-
 const TodoList = ({ filteredTodos }) => {
   return (
     <div className="space-y-4">
